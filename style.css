@@ -26,9 +26,9 @@ p.boxy{
 }
 p.takis{
     font-size: 20x;
-    background-color: black;
+    background-color: red;
     border-style: dashed;
-    border-color: red;
+    border-color: black;
     border-width: 10px;
     border-radius: 10px;
 }
