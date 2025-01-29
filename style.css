@@ -1,0 +1,47 @@
+
+
+
+body
+{background-image: :url("");
+ background-repeat:repeat-x;
+
+ 
+ 
+}
+
+
+.night{
+    font-family:serif, "Time New Roman";
+    color: navy;
+    font-size: 50px;
+text-align: center;
+    vertical-align: super;    
+
+}
+
+p.boxy{
+    font-size: 20x;
+    background-color: aqua;
+    border-style: dashed;
+    border-color: black;
+    border-width: 20px;
+    border-radius: 10px;
+}
+p.taki{
+    
+}
+
+header.{
+    
+}
+
+button{
+    width: 400px;
+    height: 120px;
+    margin: 20px;
+    transition: background-color black 0s ease;
+
+}
+button:hover{
+    background-image:url("https://i.imgur.com/he7BPwf.jpeg");
+}
