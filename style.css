@@ -2,11 +2,8 @@
 
 
 body
-{background-image: :url("");
- background-repeat:repeat-x;
-
- 
- 
+{background-image: :url("spookynight.jpg");
+ background-repeat:no-repeat;
 }
 
 
