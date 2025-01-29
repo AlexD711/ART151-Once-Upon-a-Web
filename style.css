@@ -28,6 +28,13 @@ p.boxy{
     border-radius: 10px;
 }
 p.taki{
+    font-size: 20x;
+    background-color: black;
+    border-style: dotted;
+    border-color: red;
+    border-width: 30px;
+    border-radius: 20px;
+}
     
 }
 
