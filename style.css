@@ -2,7 +2,7 @@
 
 
 body
-{background-image: :url("spookynight.jpg");
+{background-image:url("spookynight.jpg");
  background-repeat:no-repeat;
 }
 
@@ -27,7 +27,7 @@ p.boxy{
 p.takis{
     font-size: 20x;
     background-color: black;
-    border-style: dotted;
+    border-style: dashed;
     border-color: red;
     border-width: 30px;
     border-radius: 20px;
