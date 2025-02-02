@@ -36,7 +36,12 @@ p.takis{
 }
 
 header.{
-    
+     font-size: 20x;
+    background-color: red;
+    border-style: dashed;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 10px;
 }
 
 button{
