@@ -64,7 +64,7 @@ p.story{
 
 p.climax{
      font-size: 20x;
-    background-color: red;
+    background-color: purple;
     border-style: dashed;
     border-color: black;
     border-width: 10px;
@@ -86,4 +86,20 @@ button:hover{
       border: solid 2px black;
       background-repeat: no-repeat;
     }
+spooky{
+    width: 400px;
+    height: 120px;
+    margin: 20px;
+    transition: background-color black 0s ease;
+
+}
+spooky:hover{
+        background-image:url("saidcreature.png");
+        background-size: 460px;
+      width: 400px;
+      height: 250px;
+      border: solid 2px black;
+      background-repeat: no-repeat;
+    }
+
 
