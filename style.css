@@ -6,12 +6,6 @@ body
 {background-image:url("spookynight.jpg");
  background-repeat:no-repeat;
 }
-.rake{
- img src="rakespin.gif";
-  height: 40px;
-  width: 10px;
-  vertical-align: left;
-}
 
 .night{
     font-family:serif, "Time New Roman";
