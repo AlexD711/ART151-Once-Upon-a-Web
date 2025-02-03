@@ -61,7 +61,14 @@ p.story{
     border-radius: 10px;
 
 }
-
+p.creature{
+     font-size: 20x;
+    background-color: red;
+    border-style: dashed;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 10px;
+}
 p.climax{
      font-size: 20x;
     background-color: purple;
