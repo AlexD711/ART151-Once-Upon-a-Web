@@ -50,18 +50,19 @@ p.takis{
 }
 p.story{
      font-size: 20x;
-    background-color: red;
+    background-color: black;
     border-style: dashed;
-    border-color: black;
+    border-color: red;
     border-width: 10px;
     border-radius: 10px;
+    font-color: red;
 
 }
 p.creature{
      font-size: 20x;
-    background-color: red;
+    background-color: black;
     border-style: dashed;
-    border-color: black;
+    border-color: red;
     border-width: 10px;
     border-radius: 10px;
 }
