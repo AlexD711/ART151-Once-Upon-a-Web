@@ -21,7 +21,11 @@ text-align: center;
     color: blue;
     font-size: 50px;
 text-align: center;
-    vertical-align: super;    
+    vertical-align: super;   
+ border-style: solid;
+    border-color: black;
+    border-width: 7px;
+    border-radius: 10px;
 }
 
  .horror{
@@ -29,7 +33,11 @@ text-align: center;
     color: green;
     font-size: 50px;
 text-align: center;
-    vertical-align: super;   
+    vertical-align: super;
+  border-style: outset;
+    border-color: black;
+    border-width: 9px;
+    border-radius: 10px;
 
 }
 p.boxy{
