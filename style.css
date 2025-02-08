@@ -55,7 +55,7 @@ p.story{
     border-color: red;
     border-width: 10px;
     border-radius: 10px;
-    font-color: red;
+    color: red;
 
 }
 p.creature{
