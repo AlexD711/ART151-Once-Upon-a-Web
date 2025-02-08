@@ -42,19 +42,20 @@ p.boxy{
 }
 p.takis{
     font-size: 20x;
-    background-color: red;
+    background-color: black;
     border-style: dashed;
-    border-color: black;
-    border-width: 10px;
-    border-radius: 10px;
+    border-color: red;
+    border-width: 9px;
+    border-radius: 20px;
+    color: red;
 }
 p.story{
      font-size: 20x;
     background-color: black;
     border-style: dashed;
     border-color: red;
-    border-width: 10px;
-    border-radius: 10px;
+    border-width: 9px;
+    border-radius: 20px;
     color: red;
 
 }
@@ -63,32 +64,35 @@ p.creature{
     background-color: black;
     border-style: dashed;
     border-color: red;
-    border-width: 10px;
-    border-radius: 10px;
+    border-width: 9px;
+    border-radius: 20px;
+    color: red;
 }
 p.rising{
      font-size: 20x;
     background-color: red;
     border-style: dashed;
     border-color: black;
-    border-width: 10px;
-    border-radius: 10px;
+    border-width: 9px;
+    border-radius: 20px;
 }
 p.talk{
      font-size: 20x;
-    background-color: red;
+    background-color: black;
     border-style: dashed;
-    border-color: black;
-    border-width: 10px;
+    border-color: red;
+    border-width: 9px;
     border-radius: 10px;
+    color: white; 
 }
 p.climax{
      font-size: 20x;
-    background-color: purple;
+    background-color: black;
     border-style: dashed;
-    border-color: black;
+    border-color: red;
     border-width: 10px;
     border-radius: 10px;
+     color: purple;
 }
 
 button.forest{
