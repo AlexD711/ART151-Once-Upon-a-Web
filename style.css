@@ -23,9 +23,10 @@ text-align: center;
 text-align: center;
     vertical-align: super;   
  border-style: solid;
+ background-color: black; 
     border-color: black;
     border-width: 7px;
-    border-radius: 10px;
+    border-radius: 7px;
 }
 
  .horror{
@@ -35,6 +36,7 @@ text-align: center;
 text-align: center;
     vertical-align: super;
   border-style: outset;
+    background-color: black; 
     border-color: black;
     border-width: 9px;
     border-radius: 10px;
