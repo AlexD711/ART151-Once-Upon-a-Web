@@ -30,7 +30,7 @@ text-align: center;
 }
 
  .horror{
-    font-family:serif, "Leelawadee UI";
+    font-family:serif, "Impact";
     color: green;
     font-size: 50px;
 text-align: center;
@@ -42,6 +42,17 @@ text-align: center;
     border-radius: 10px;
 
 }
+ .over{
+    font-family:serif, "Comic sans";
+    color: white;
+    font-size: 50px;
+text-align: center;
+    vertical-align: super;
+  border-style: outset;
+    background-color: black; 
+    border-color: black;
+    border-width: 9px;
+    border-radius: 10px;
 p.boxy{
     font-size: 20x;
     background-color: aqua;
