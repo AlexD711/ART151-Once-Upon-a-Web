@@ -87,12 +87,12 @@ p.talk{
 }
 p.climax{
      font-size: 20x;
-    background-color: black;
+    background-color: purple;
     border-style: dashed;
-    border-color: red;
+    border-color: black;
     border-width: 10px;
     border-radius: 10px;
-     color: purple;
+     color: white;
 }
 
 button.forest{
