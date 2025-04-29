@@ -4,6 +4,8 @@
 
 body
 {background-image:url("spookynight.jpg") no-repeat center center / cover no-repeat fixed;
+ padding: 20px;
+
 }
 
 .night{
