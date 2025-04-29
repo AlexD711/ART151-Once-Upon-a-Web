@@ -3,8 +3,7 @@
 
 
 body
-{background-image:url("spookynight.jpg");
- background-repeat:no-repeat;
+{background-image:url("spookynight.jpg") no-repeat center center / cover no-repeat fixed;
 }
 
 .night{
